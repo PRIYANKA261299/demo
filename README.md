@@ -1,4 +1,4 @@
 # demo
 this is my first repos
 <br>
-Author - YADAV PRIYANKA
+Author - Yadav Priyanka
